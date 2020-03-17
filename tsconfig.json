@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "declarationMap": true,
+    "outDir":"dist",
+    "rootDir": "."
+  },
+  "include": [
+    "src"
+  ],
+}
